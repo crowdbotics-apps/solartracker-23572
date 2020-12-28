@@ -28,7 +28,7 @@ export default class Blank extends React.Component {
 
   render = () => (
     <View>
-      <Text>Sample text content</Text>
+      <Text>0</Text>
     </View>
   )
 }
